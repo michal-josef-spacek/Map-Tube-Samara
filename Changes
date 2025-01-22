@@ -1,5 +1,6 @@
 0.08
  - Fix Changelog file.
+ - Fix Makefile.PL and use lib.
  - Update Module::Install to 1.21 version.
  - Update author github username.
  - Update copyright years.
