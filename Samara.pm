@@ -190,8 +190,8 @@ For more information about Samara Map, click L<here|https://en.wikipedia.org/wik
 
 =begin html
 
-<a href="https://raw.githubusercontent.com/tupinek/Map-Tube-Samara/master/images/ex3.png">
-  <img src="https://raw.githubusercontent.com/tupinek/Map-Tube-Samara/master/images/ex3.png" alt="Самарский метрополитен" width="300px" height="300px" />
+<a href="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Samara/master/images/ex3.png">
+  <img src="https://raw.githubusercontent.com/michal-josef-spacek/Map-Tube-Samara/master/images/ex3.png" alt="Самарский метрополитен" width="300px" height="300px" />
 </a>
 
 =end html
@@ -288,7 +288,7 @@ Install the Map::Tube concrete metro modules.
 
 =head1 REPOSITORY
 
-L<https://github.com/tupinek/Map-Tube-Samara>
+L<https://github.com/michal-josef-spacek/Map-Tube-Samara>
 
 =head1 AUTHOR
 
