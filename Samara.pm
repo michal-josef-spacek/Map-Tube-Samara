@@ -115,6 +115,8 @@ For more information about Samara Map, click L<here|https://en.wikipedia.org/wik
 
 =head1 EXAMPLE1
 
+=for comment filename=print_samara_route.pl
+
  use strict;
  use warnings;
 
@@ -135,6 +137,8 @@ For more information about Samara Map, click L<here|https://en.wikipedia.org/wik
 
 =head1 EXAMPLE2
 
+=for comment filename=print_samara_def_xml_file.pl
+
  use strict;
  use warnings;
 
@@ -153,6 +157,8 @@ For more information about Samara Map, click L<here|https://en.wikipedia.org/wik
  # XML file: .*/samara-map.xml
 
 =head1 EXAMPLE3
+
+=for comment filename=print_samara_image.pl
 
  use strict;
  use warnings;
@@ -190,6 +196,8 @@ For more information about Samara Map, click L<here|https://en.wikipedia.org/wik
 
 =head1 EXAMPLE4
 
+=for comment filename=print_samara_lines.pl
+
  use strict;
  use warnings;
 
@@ -209,6 +217,8 @@ For more information about Samara Map, click L<here|https://en.wikipedia.org/wik
  # Первая линия
 
 =head1 EXAMPLE5
+
+=for comment filename=print_samara_line_stations.pl
 
  use strict;
  use warnings;
