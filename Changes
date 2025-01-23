@@ -3,6 +3,7 @@
  - Fix Makefile.PL and use lib.
  - Improve LICENSE AND COPYRIGHT section in doc.
  - Improve SYNOPSIS section in doc.
+ - Move bugtracker to github.
  - Rename examples to better names.
  - Update Module::Install to 1.21 version.
  - Update author github username.
