@@ -34,6 +34,7 @@ Map::Tube::Samara - Interface to the Samara Metro Map.
 =head1 SYNOPSIS
 
  use Map::Tube::Samara;
+
  my $obj = Map::Tube::Samara->new;
  my $routes_ar = $obj->get_all_routes($from, $to);
  my $line = $obj->get_line_by_id($line_id);
