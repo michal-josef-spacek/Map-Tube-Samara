@@ -1,4 +1,4 @@
-0.08
+0.08 2025-01-23T21:25:20+01:00
  - Fix Changelog file.
  - Fix Makefile.PL and use lib.
  - Improve LICENSE AND COPYRIGHT section in doc.
